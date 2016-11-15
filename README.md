@@ -4,4 +4,4 @@ This project is about retrieving the documents and building an inverted index . 
 3. Document at a Time AND algorithm
 4.Document at a Time OR algorithm
 
-Above algorithms implemented for a test input . The output is a posting list which varies as per the algorithm . Scoring is not considered. The project is implemented in Java using the Eclipse IDE
+Above algorithms are implemented for a test input . The output is a posting list which varies as per the algorithm . Scoring is not considered. The project is implemented in Java using the Eclipse IDE
